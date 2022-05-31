@@ -3,7 +3,7 @@ _Oi my name is Daniel_
 - I am from Brasil, 19 years 
 - currently working as an IT Technician( networks and computers )
 - study programing { JavaScript, Python, C++, CSS }
-- i love numbers
+- I Love Numbers.
 
 -  -------💚PT-BR💛 --------
 - ~Entrando no mundo da programação 
