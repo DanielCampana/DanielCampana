@@ -1,6 +1,6 @@
 _Oi my name is Daniel_
  ## Curiosities about me
-- I am from Brasil, 19 years 
+- I am from Brasil, I Have 19 years 
 - currently working as an IT Technician( networks and computers )
 - study programing { JavaScript, Python, C++, CSS }
 - I Love Numbers.
