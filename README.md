@@ -4,11 +4,6 @@ _Oi my name is Daniel_
 - currently working as an IT Technician( networks and computers )
 - study programing { JavaScript, Python, C++, CSS }
 - I Love Numbers.
-
--  -------💚PT-BR💛 --------
-- ~Entrando no mundo da programação 
-- ~Estágio Técnico TI 
-- [ Redes e computadores, hardware e software ]
 ## 
 <div style="display: inline_block"><br>
   <img align="center" alt="Daniel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
