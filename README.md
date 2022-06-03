@@ -10,7 +10,7 @@ _Oi my name is Daniel_
   <img align="center" alt="Daniel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
    <img align="center" alt="Daniel-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
    <img align="center" alt="Daniel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/375301386805575701/981280247657938994/download20220502163225.png">
+   <img align="right" alt="Daniel-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/375301386805575701/981280247657938994/download20220502163225.png">
 </div>
 
 ##
