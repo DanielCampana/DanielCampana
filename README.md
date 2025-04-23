@@ -8,7 +8,6 @@ _Oi my name is Daniel_
 <div style="display: inline_block"><br>
   <img align="center" alt="Daniel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Daniel-IT" height="30" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9a128sxkzL6tVECDVTAOGBwNu5DlmvKX20Rl7QV8ZF4-0SDJf-U0wXoYt9m0WMuWoHCM&usqp=CAU">
-   #<img align="center" alt="Daniel-CyberSecurity" height="30" width="40" src="https://png.pngtree.com/png-clipart/20230330/original/pngtree-cyber-security-line-icon-png-image_9009047.png">
    <img align="center" alt="Daniel-Microsoft" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Microsoft_icon.svg/2048px-Microsoft_icon.svg.png">
 </div>
 
