@@ -1,6 +1,6 @@
 _Oi my name is Daniel_
  ## Curiosities about me
-- I am from Brasil, I am 22 years 
+- I am from Brasil 
 - currently working as an IT Technician( networks and computers )
 - study Systems Analysis and Development { Microsoft, C++, SQL, }
 
