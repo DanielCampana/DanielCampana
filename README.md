@@ -1,16 +1,15 @@
 _Oi my name is Daniel_
  ## Curiosities about me
-- I am from Brasil, I am 19 years 
+- I am from Brasil, I am 22 years 
 - currently working as an IT Technician( networks and computers )
-- study programing { JavaScript, Python, C++, CSS }
-- I Love Numbers.
+- study programing {  }
+
 ## 
 <div style="display: inline_block"><br>
   <img align="center" alt="Daniel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Daniel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-   <img align="center" alt="Daniel-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
-   <img align="center" alt="Daniel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <img align="right" alt="Daniel-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/375301386805575701/981280247657938994/download20220502163225.png">
+  <img align="center" alt="Daniel-IT" height="30" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSrTD2DIkA3nB_3xqlAH74OJv2b8OpxkkTzPGUeHl_XLMbMuQ9kg5J37odEj5KeLapkGw&usqp=CAU">
+   <img align="center" alt="Daniel-CyberSecurity" height="30" width="40" src="https://png.pngtree.com/png-clipart/20230330/original/pngtree-cyber-security-line-icon-png-image_9009047.png">
+   <img align="center" alt="Daniel-Microsoft" height="30" width="40" src="https://png.pngtree.com/element_our/sm/20180627/sm_5b334610deb59.jpg">
 </div>
 
 ##
@@ -19,7 +18,7 @@ _Oi my name is Daniel_
   <a href = "danielcampanafsantos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/daniel-campana-811825227/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
- ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+
  
 
 <div> 
