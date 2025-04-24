@@ -12,9 +12,11 @@ _Oi my name is Daniel_
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=DanielCampana&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=DanielCampana&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielCampana&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=DanielCampana&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+![snake gif](https://github.com/SEU_USUARIO/SEU_REPOSITORIO/blob/output/github-contribution-grid-snake.svg)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
